@@ -1,4 +1,4 @@
-function moi(){
+function 1_moi(){
     docunemt.getelementById("moi").ineerHTML = "<p>moi</html>";
 }
 funcion toinenfunktio(add){
